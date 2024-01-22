@@ -1,4 +1,4 @@
-## GETTING STARTED
+## GETTING STARTED 
 - Clone this repository.
 - Create a new repository in your Github account. Set it to be a public repo. Copy the new repo SSH path.
 - Open the cloned repo project in your favorite IDE. Start a terminal session.
